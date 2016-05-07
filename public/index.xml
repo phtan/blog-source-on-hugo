@@ -6,8 +6,42 @@
     <description>Recent content on Pheng Heong&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 May 2016 07:30:49 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 May 2016 12:24:02 +0800</lastBuildDate>
     <atom:link href="http://phtan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Half an hour with a developer</title>
+      <link>http://phtan.github.io/blog/post/2016-05-07-half-an-hour-with-a-developer/</link>
+      <pubDate>Sat, 07 May 2016 12:24:02 +0800</pubDate>
+      
+      <guid>http://phtan.github.io/blog/post/2016-05-07-half-an-hour-with-a-developer/</guid>
+      <description>
+
+&lt;p&gt;On Thursday (5 May), I went to &lt;a href=&#34;http://www.meetup.com/kx-singapore/events/229096747/&#34;&gt;a Meetup for the Kx community&lt;/a&gt; in Singapore. I met people who were working with software. Some of them worked at financial institutions, others at software companies. I had the opportunity to talk to a developer, whom I shall call C.&lt;/p&gt;
+
+&lt;p&gt;C talked about his programming projects at college, &lt;a href=&#34;https://en.wikipedia.org/wiki/Code_golf&#34;&gt;code golf&lt;/a&gt;, and his experience of using &lt;a href=&#34;https://en.wikipedia.org/wiki/Q_%28programming_language_from_Kx_Systems%29&#34;&gt;the q language&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-i-talked:17a00b698969c1d7fe3bd1cf94c29d07&#34;&gt;How I talked&lt;/h3&gt;
+
+&lt;p&gt;During my conversation with C, sometimes I felt like a talk show host, in the sense that I had little to no expertise in the things that C cared about. So, to compensate for my lack of expertise, I tried a style of talking that I have seen in a video clip of a conversation between two people. The video clip is as follows:&lt;/p&gt;
+
+&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/eedgLk3b9f0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;To me, the video had seemed like a contrast of a positive example and a negative example of listening to people. I tried the positive example when I talked to C.&lt;/p&gt;
+
+&lt;p&gt;Did it work? Well, he seemed to respond enthusiastically. When I said things like &amp;lsquo;How cool is that?&amp;rsquo; or &amp;lsquo;That&amp;rsquo;s amazing!&amp;rsquo; he replied with &amp;lsquo;I know, right?&amp;rsquo; or &amp;lsquo;Exactly!&amp;rsquo; He was so excited.&lt;/p&gt;
+
+&lt;p&gt;But I quickly ran into a problem. I wanted to go to the restroom, but I wanted to avoid sounding like the person in the video (who goes &amp;lsquo;Pass me the butter!&amp;rsquo;) Still, I excused myself in the end.&lt;/p&gt;
+
+&lt;h3 id=&#34;now-what:17a00b698969c1d7fe3bd1cf94c29d07&#34;&gt;Now what?&lt;/h3&gt;
+
+&lt;p&gt;I will definitely try to talk in a similar manner again when I talk to another developer, if the setting is appropriate. I had seemed to be able to keep the conversation going.&lt;/p&gt;
+
+&lt;p&gt;Perhaps, for the purpose of professionalism, I would ask questions in the style of interviews, in future.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The writer was at a Meetup where the food and drinks were courtesy of the people from&lt;/em&gt; &lt;a href=&#34;http://www.firstderivatives.com/&#34;&gt;First Derivatives&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Not knowing</title>
