@@ -3,4 +3,5 @@ languageCode = "en-us"
 title = "Pheng Heong's Blog"
 
 [Params]
-disqusShortname = "phengheongsblog"
+
+disqus = "phengheongsblog"
