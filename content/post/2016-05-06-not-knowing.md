@@ -13,7 +13,7 @@ It is almost 4 AM. I sit down at the computer and type. The words leap from my m
 
 What has driven me to such a dark place, and into such an uncomfortable position? I am encountering the unknown as I produce this post. Never in my life have I embarked on such a pursuit.
 
-Would I be able to make the post funny? Who should I write the post for? How good am I as a comedian with a blog? Worry after worry has flooded my mind before I can even sit down to write. Writing a blog post had become a matter of demonstrating my competence and a potential source of embarrassment. I feel the way that I have felt in my final year of high school as I prepared for my examinations and 'O' Levels: a mixture of nervousness and uneasiness. I gulp down two litres of water. About ten years ago, while preparing for examinations, I did almost the same thing. My mother exclaimed then: 'I don't know why you are drinking so much water! Is it to relieve your stress?'
+Would I be able to make the post funny? Who should I write the post for? How good am I as a (aspiring) comedian with a blog? Worry after worry has flooded my mind before I can even sit down to write. Writing a blog post had become a matter of demonstrating my competence and a potential source of embarrassment. I feel the way that I have felt in my final year of high school as I prepared for my examinations and 'O' Levels: a mixture of nervousness and uneasiness. I gulp down two litres of water. About ten years ago, while preparing for examinations, I did almost the same thing. My mother exclaimed then: 'I don't know why you are drinking so much water! Is it to relieve your stress?'
 
 'Don't feign expertise,' the book seems to warn from my memories, 'as tempting as it may be'.
 
