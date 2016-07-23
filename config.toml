@@ -2,6 +2,10 @@ baseurl = "http://phtan.github.io/blog/"
 languageCode = "en-us"
 title = "Pheng Heong's Blog"
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+
 [Params]
 
 disqus = "phengheongsblog"
