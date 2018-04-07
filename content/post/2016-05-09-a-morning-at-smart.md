@@ -7,8 +7,6 @@ title = "A morning at SMART"
 
 Singapore-MIT Alliance for Research and Technology (SMART) is a research enterprise. I got an opportunity to attach myself to the team that is working on SimMobility, a simulation platform. SimMobility is part of the Future Urban Mobility interdisciplinary research group.
 
-![A screenshot of the SimMobility simulation](https://i.ytimg.com/vi/FiE44QfmAFw/maxresdefault.jpg "What my work might look like")
-
 I arrived in the morning about 9.40 AM. In a possible fore-shadow of the kind of working hours over here, the person at Security informed me about an access card that handled the doors which were locked after 6 PM.
 
 Since I did not have an access card, a person unlocked the door for me when I rang the bell at the entrance to the SMART office.
