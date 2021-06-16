@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-crisp"]
 	path = themes/hugo-theme-crisp
 	url = https://github.com/phtan/hugo-theme-crisp
+[submodule "blog"]
+	path = blog
+	url = https://github.com/phtan/blog
