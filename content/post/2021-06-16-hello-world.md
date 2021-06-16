@@ -1,9 +1,8 @@
-+++ 
+--- 
 date = "" 
 draft = false 
 title = "Hello Netlify"
-
-+++
+---
 
 Hello world,
 
